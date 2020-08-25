@@ -1,0 +1,17 @@
+#  Exercicío da Aula de git
+##  1)
+
+a) inicializa ou reseta o repositorio local.
+b) clona repositorio remoto localmente.
+c) mostra que branch o usuário está.
+d) muda de branch ou restaura arquivos da arvore de trabalho.
+e) pega o historico de alterações do repositorio remoto e para o local sem fazer alterações.
+f) tras o historico de alterações do repositorio remoto e faz alterações no local.
+g) adiciona uma ou mais alterações feitas no repositorio a um commit.
+h) grava a(s) mudança(s) feita(s) no repositorio local.
+i) confirma as mudanças dos commits e coloca elas no repositorio remoto.
+
+##  2)  
+
+    Fetch: tras o historico de alterações do repositorio remoto para o local, sem alterar o local.
+    Pull: faz a mesma ação do fetch mais altera o repositorio local. 
